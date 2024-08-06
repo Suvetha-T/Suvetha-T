@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on an project
-- <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna18062005&theme=" alt="krishna18062005" /></p>
+- <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvetha-50&theme=" alt="Suvetha-50" /></p>
 
 
 <!---
