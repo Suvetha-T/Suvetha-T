@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on an project
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Suvetha-50)](https://git.io/streak-stats)
+- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Suvetha-50" alt="GitHub Streak" /></a>
 
 
 <!---
