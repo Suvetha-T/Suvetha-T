@@ -12,7 +12,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suvetha-50&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">⚡ Fun Fact: I train models and my cat at the same time! </h3>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
