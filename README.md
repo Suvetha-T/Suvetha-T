@@ -9,7 +9,7 @@ Student @ K Ramakrishnan College of Engineering
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suvetha-t)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I prefer dark mode in everything... excluding milk 🥛.
-- 🎧 I listen to music while coding.<br />
+- 🎧 I listen to music while coding.<br /><br />
 - <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Suvetha-50" alt="GitHub Streak" /></a>
 
 ### I code in
@@ -21,7 +21,7 @@ Student @ K Ramakrishnan College of Engineering
 
 ![Suvetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suvetha-T&theme=dark&show_icons=true&&hide=issues,contribs)
 
-Suvetha's Hackerrank Stats <br />
+Suvetha's Hackerrank Stats <br /><br />
 [![Suvetha's Hackerrank Stats](https://hackerrank-stats.vercel.app/api?username=suvethax50)](https://www.hackerrank.com/suvethax50)
 
 [![Suvetha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suvetha-T&bg_color=000000&color=fafafa&line=3ef519&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
