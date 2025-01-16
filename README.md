@@ -1,8 +1,7 @@
 
 ## Hi there 👋 It's me Suvetha
 
-Student @ K Ramakrishnan College of Engineering
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
+Student @ K Ramakrishnan College of Engineering                                               
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Full-Stack Development
 - 📫 How to reach me :
