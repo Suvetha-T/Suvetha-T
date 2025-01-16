@@ -20,7 +20,7 @@ Student @ K Ramakrishnan College of Engineering
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
 
 ![Suvetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suvetha-T&theme=dark&show_icons=true&&hide=issues,contribs)
-![Hackerrank Stats](https://hackerrank-stats.vercel.app/api?username=suvethax50)
+
 [![Suvetha's Hackerrank Stats](https://hackerrank-stats.vercel.app/api?username=suvethax50)](https://www.hackerrank.com/suvethax50)
 
 [![Suvetha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suvetha-T&bg_color=000000&color=fafafa&line=3ef519&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
