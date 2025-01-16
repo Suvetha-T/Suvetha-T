@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Suvetha-50
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on an project
-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Suvetha-50" alt="GitHub Streak" /></a>
+
 ## Hi there 👋 It's me Hareesh
 
 Software Engineer @ Zoho Corporation
@@ -12,6 +8,7 @@ Software Engineer @ Zoho Corporation
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
+- - <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Suvetha-50" alt="GitHub Streak" /></a>
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 - 😄 Pronouns: Techie
