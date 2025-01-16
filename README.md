@@ -1,19 +1,16 @@
 
 ## Hi there 👋 It's me Suvetha
 
-Student @K Ramakrishnan College of Engineering
+Student @ K Ramakrishnan College of Engineering
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Full-Stack Development
 - 📫 How to reach me :
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suvetha-t)
-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Suvetha-50" alt="GitHub Streak" /></a>
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I prefer dark mode in everything... excluding milk 🥛.
 - 🎧 I listen to music while coding.
-- ![Coffee](https://img.shields.io/badge/Coffee-Addict-FFDD00?logo=coffee)
-![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Enabled-black)
-
+- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Suvetha-50" alt="GitHub Streak" /></a>
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
